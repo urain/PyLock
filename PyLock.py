@@ -26,6 +26,7 @@
 # ------
 # At this time the script does have problems identifying all variances of variables i.e. variable names inbetween quotes of strings.
 # builtin variable assignments for functions that correspond to user created variables, etc.
+# It also has issues with imports that exceed 2 levels i.e. import sub.process.stuff
 
 import re
 import ast
