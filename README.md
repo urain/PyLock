@@ -1,2 +1,2 @@
 # PyLock
-Evil tool to obfuscate Python scripts.
+Tool to lightly obfuscate Python scripts.
